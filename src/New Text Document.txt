@@ -1,0 +1,2 @@
+### The final countdown jquery Plugin:
+	http://hilios.github.io/jQuery.countdown/
